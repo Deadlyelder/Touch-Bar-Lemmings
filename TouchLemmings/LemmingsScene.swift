@@ -3,6 +3,8 @@
 //  TouchLemmings
 //
 //  Created by Erik Olsson on 2016-12-11.
+//  Modified by Sankalp Ghatpande on 2017-10-27.
+//
 //  Copyright © 2016 Erik Olsson. All rights reserved.
 //
 
@@ -39,7 +41,7 @@ class LemmmingsScene: SKScene, SKPhysicsContactDelegate {
   }
 
   override func touchesBegan(with event: NSEvent) {
-    if #available(OSX 10.12.1, *) {
+    if #available(OSX 10.12.2, *) {
       if let touch = event.allTouches().first {
         let location = CGPoint(x: touch.location(in: self.view).x, y: 14)
 

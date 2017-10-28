@@ -1,6 +1,7 @@
 # Touch Bar Lemmings
 
 Originally created by Erik Olsson [@erikolsson](https://github.com/erikolsson/Touch-Bar-Lemmings)
+
 Modified by Sankalp Ghatpande [@Deadlyelder](https://github.com/Deadlyelder)
 
 ## Whats new in this fork?
@@ -14,9 +15,9 @@ Modified by Sankalp Ghatpande [@Deadlyelder](https://github.com/Deadlyelder)
 
 Just download one of the following binary:
 
-* [Without sound](https://github.com/Deadlyelder/Touch-Bar-Lemmings/tree/v1.0) For those who wish to silently have the Lemmings running on the touch bar
+* [Without sound](https://github.com/Deadlyelder/Touch-Bar-Lemmings/releases/tag/v1.0) For those who wish to silently have the Lemmings running on the touch bar
 
-* [With sound](https://github.com/Deadlyelder/Touch-Bar-Lemmings/tree/v1.1) For the real experience ;)
+* [With sound](https://github.com/Deadlyelder/Touch-Bar-Lemmings/releases/tag/v1.1) For the real experience ;)
 
 ## Screenshoot
 
